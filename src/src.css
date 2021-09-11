@@ -1,0 +1,43 @@
+.hdingstyl{
+    background-color: aqua;
+    color: cornsilk;
+    text-align: center;
+  
+}
+
+.lrgtxt{
+    font-size:xx-large;
+}
+.card{
+    background-color: burlywood;
+    box-shadow: 2px 2px 3px 3px rgb(77, 78, 74);
+    border-radius: 2px;
+    margin: 10px;
+    padding: 10px;
+    width: 390px;
+    display: inline-block;
+}
+.cardTitle{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.cardDesc{
+    font-weight: bold;
+}
+.cardfooter{
+    text-align: center;
+}
+.pls{
+background-color: green;
+padding: 20px;
+border: 5px;
+border-radius: 2px;
+font-size: 3rem;
+}
+.mns{
+    background-color: red;
+padding: 20px;
+border: 5px;
+font-size: 3rem;
+
+}
